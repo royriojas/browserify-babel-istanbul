@@ -27,7 +27,7 @@
   "homepage": "https://github.com/malandrew/browserify-babel-istanbul",
   "dependencies": {
     "babel-istanbul": "https://github.com/rtsao/babel-istanbul/tarball/master",
-    "minimatch": "^2.0.0",
+    "minimatch": "^3.0.2",
     "through": "^2.3.4"
   },
   "devDependencies": {
